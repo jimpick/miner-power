@@ -23116,5 +23116,1799 @@
     "miner": "t0123652",
     "rawBytePower": 9663676416,
     "qualityAdjPower": 9663676416
+  },
+  {
+    "height": 9000,
+    "miner": "t01001",
+    "rawBytePower": 26388279066624,
+    "qualityAdjPower": 263882790666240
+  },
+  {
+    "height": 9000,
+    "miner": "t01000",
+    "rawBytePower": 26388279066624,
+    "qualityAdjPower": 263882790666240
+  },
+  {
+    "height": 9000,
+    "miner": "t01002",
+    "rawBytePower": 26388279066624,
+    "qualityAdjPower": 263882790666240
+  },
+  {
+    "height": 9000,
+    "miner": "t01058",
+    "rawBytePower": 5188320493568,
+    "qualityAdjPower": 5188320493568
+  },
+  {
+    "height": 9000,
+    "miner": "t01307",
+    "rawBytePower": 8589934592000,
+    "qualityAdjPower": 8589934592000
+  },
+  {
+    "height": 9000,
+    "miner": "t01300",
+    "rawBytePower": 4879082848256,
+    "qualityAdjPower": 4879082848256
+  },
+  {
+    "height": 9000,
+    "miner": "t01299",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t01308",
+    "rawBytePower": 103079215104,
+    "qualityAdjPower": 103079215104
+  },
+  {
+    "height": 9000,
+    "miner": "t01306",
+    "rawBytePower": 171798691840,
+    "qualityAdjPower": 171798691840
+  },
+  {
+    "height": 9000,
+    "miner": "t01310",
+    "rawBytePower": 15702400434176,
+    "qualityAdjPower": 15702400434176
+  },
+  {
+    "height": 9000,
+    "miner": "t01309",
+    "rawBytePower": 68719476736,
+    "qualityAdjPower": 68719476736
+  },
+  {
+    "height": 9000,
+    "miner": "t01339",
+    "rawBytePower": 3264175144960,
+    "qualityAdjPower": 3264175144960
+  },
+  {
+    "height": 9000,
+    "miner": "t01562",
+    "rawBytePower": 97581656965120,
+    "qualityAdjPower": 97581656965120
+  },
+  {
+    "height": 9000,
+    "miner": "t01580",
+    "rawBytePower": 664036303699968,
+    "qualityAdjPower": 664036303699968
+  },
+  {
+    "height": 9000,
+    "miner": "t01591",
+    "rawBytePower": 68182605824,
+    "qualityAdjPower": 68182605824
+  },
+  {
+    "height": 9000,
+    "miner": "t01584",
+    "rawBytePower": 188360085733376,
+    "qualityAdjPower": 188360085733376
+  },
+  {
+    "height": 9000,
+    "miner": "t01585",
+    "rawBytePower": 206158430208,
+    "qualityAdjPower": 206158430208
+  },
+  {
+    "height": 9000,
+    "miner": "t01593",
+    "rawBytePower": 62277025792,
+    "qualityAdjPower": 62277025792
+  },
+  {
+    "height": 9000,
+    "miner": "t01599",
+    "rawBytePower": 441763156197376,
+    "qualityAdjPower": 441763156197376
+  },
+  {
+    "height": 9000,
+    "miner": "t01596",
+    "rawBytePower": 165373420765184,
+    "qualityAdjPower": 165373420765184
+  },
+  {
+    "height": 9000,
+    "miner": "t01592",
+    "rawBytePower": 914759314571264,
+    "qualityAdjPower": 914759314571264
+  },
+  {
+    "height": 9000,
+    "miner": "t01598",
+    "rawBytePower": 1159606810181632,
+    "qualityAdjPower": 1159606810181632
+  },
+  {
+    "height": 9000,
+    "miner": "t01606",
+    "rawBytePower": 84825604096,
+    "qualityAdjPower": 84825604096
+  },
+  {
+    "height": 9000,
+    "miner": "t01630",
+    "rawBytePower": 328960135135232,
+    "qualityAdjPower": 328960135135232
+  },
+  {
+    "height": 9000,
+    "miner": "t01632",
+    "rawBytePower": 504121786368,
+    "qualityAdjPower": 504121786368
+  },
+  {
+    "height": 9000,
+    "miner": "t01607",
+    "rawBytePower": 17214228922368,
+    "qualityAdjPower": 17214228922368
+  },
+  {
+    "height": 9000,
+    "miner": "t01617",
+    "rawBytePower": 27144193310720,
+    "qualityAdjPower": 27144193310720
+  },
+  {
+    "height": 9000,
+    "miner": "t01618",
+    "rawBytePower": 308344292114432,
+    "qualityAdjPower": 308344292114432
+  },
+  {
+    "height": 9000,
+    "miner": "t01609",
+    "rawBytePower": 285495066099712,
+    "qualityAdjPower": 285495066099712
+  },
+  {
+    "height": 9000,
+    "miner": "t01624",
+    "rawBytePower": 274877906944,
+    "qualityAdjPower": 274877906944
+  },
+  {
+    "height": 9000,
+    "miner": "t01637",
+    "rawBytePower": 228801497792512,
+    "qualityAdjPower": 228801497792512
+  },
+  {
+    "height": 9000,
+    "miner": "t01646",
+    "rawBytePower": 168706315386880,
+    "qualityAdjPower": 168706315386880
+  },
+  {
+    "height": 9000,
+    "miner": "t01647",
+    "rawBytePower": 46901042872320,
+    "qualityAdjPower": 46901042872320
+  },
+  {
+    "height": 9000,
+    "miner": "t01648",
+    "rawBytePower": 379881267396608,
+    "qualityAdjPower": 379881267396608
+  },
+  {
+    "height": 9000,
+    "miner": "t01653",
+    "rawBytePower": 455781929451520,
+    "qualityAdjPower": 455781929451520
+  },
+  {
+    "height": 9000,
+    "miner": "t01655",
+    "rawBytePower": 298483047202816,
+    "qualityAdjPower": 298483047202816
+  },
+  {
+    "height": 9000,
+    "miner": "t01657",
+    "rawBytePower": 131116761612288,
+    "qualityAdjPower": 131116761612288
+  },
+  {
+    "height": 9000,
+    "miner": "t01654",
+    "rawBytePower": 652835028992,
+    "qualityAdjPower": 652835028992
+  },
+  {
+    "height": 9000,
+    "miner": "t01658",
+    "rawBytePower": 24704651886592,
+    "qualityAdjPower": 24704651886592
+  },
+  {
+    "height": 9000,
+    "miner": "t01662",
+    "rawBytePower": 394381076987904,
+    "qualityAdjPower": 394381076987904
+  },
+  {
+    "height": 9000,
+    "miner": "t01663",
+    "rawBytePower": 5634997092352,
+    "qualityAdjPower": 5634997092352
+  },
+  {
+    "height": 9000,
+    "miner": "t01661",
+    "rawBytePower": 28071906246656,
+    "qualityAdjPower": 28071906246656
+  },
+  {
+    "height": 9000,
+    "miner": "t01664",
+    "rawBytePower": 2130303778816,
+    "qualityAdjPower": 2130303778816
+  },
+  {
+    "height": 9000,
+    "miner": "t01665",
+    "rawBytePower": 2164663517184,
+    "qualityAdjPower": 2164663517184
+  },
+  {
+    "height": 9000,
+    "miner": "t01666",
+    "rawBytePower": 755914244096,
+    "qualityAdjPower": 755914244096
+  },
+  {
+    "height": 9000,
+    "miner": "t01667",
+    "rawBytePower": 23192823398400,
+    "qualityAdjPower": 23192823398400
+  },
+  {
+    "height": 9000,
+    "miner": "t01674",
+    "rawBytePower": 184752313204736,
+    "qualityAdjPower": 184752313204736
+  },
+  {
+    "height": 9000,
+    "miner": "t01668",
+    "rawBytePower": 692864124190720,
+    "qualityAdjPower": 692864124190720
+  },
+  {
+    "height": 9000,
+    "miner": "t01677",
+    "rawBytePower": 1443109011456,
+    "qualityAdjPower": 1443109011456
+  },
+  {
+    "height": 9000,
+    "miner": "t01675",
+    "rawBytePower": 21337397526528,
+    "qualityAdjPower": 21337397526528
+  },
+  {
+    "height": 9000,
+    "miner": "t01680",
+    "rawBytePower": 203684529045504,
+    "qualityAdjPower": 203684529045504
+  },
+  {
+    "height": 9000,
+    "miner": "t01679",
+    "rawBytePower": 343597383680,
+    "qualityAdjPower": 343597383680
+  },
+  {
+    "height": 9000,
+    "miner": "t01687",
+    "rawBytePower": 116513872805888,
+    "qualityAdjPower": 116513872805888
+  },
+  {
+    "height": 9000,
+    "miner": "t01694",
+    "rawBytePower": 412316860416,
+    "qualityAdjPower": 412316860416
+  },
+  {
+    "height": 9000,
+    "miner": "t01696",
+    "rawBytePower": 7902739824640,
+    "qualityAdjPower": 7902739824640
+  },
+  {
+    "height": 9000,
+    "miner": "t01701",
+    "rawBytePower": 549755813888,
+    "qualityAdjPower": 549755813888
+  },
+  {
+    "height": 9000,
+    "miner": "t01699",
+    "rawBytePower": 3979287199744,
+    "qualityAdjPower": 3979287199744
+  },
+  {
+    "height": 9000,
+    "miner": "t01703",
+    "rawBytePower": 1752346656768,
+    "qualityAdjPower": 1752346656768
+  },
+  {
+    "height": 9000,
+    "miner": "t01708",
+    "rawBytePower": 573378134016,
+    "qualityAdjPower": 573378134016
+  },
+  {
+    "height": 9000,
+    "miner": "t01710",
+    "rawBytePower": 3951369912320,
+    "qualityAdjPower": 3951369912320
+  },
+  {
+    "height": 9000,
+    "miner": "t01711",
+    "rawBytePower": 34016140984320,
+    "qualityAdjPower": 34016140984320
+  },
+  {
+    "height": 9000,
+    "miner": "t01716",
+    "rawBytePower": 16286515986432,
+    "qualityAdjPower": 16286515986432
+  },
+  {
+    "height": 9000,
+    "miner": "t01718",
+    "rawBytePower": 70712341561344,
+    "qualityAdjPower": 70712341561344
+  },
+  {
+    "height": 9000,
+    "miner": "t01712",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t01734",
+    "rawBytePower": 893353197568,
+    "qualityAdjPower": 893353197568
+  },
+  {
+    "height": 9000,
+    "miner": "t01738",
+    "rawBytePower": 65695819759616,
+    "qualityAdjPower": 65695819759616
+  },
+  {
+    "height": 9000,
+    "miner": "t01740",
+    "rawBytePower": 3745211482112,
+    "qualityAdjPower": 3745211482112
+  },
+  {
+    "height": 9000,
+    "miner": "t01742",
+    "rawBytePower": 1408749273088,
+    "qualityAdjPower": 1408749273088
+  },
+  {
+    "height": 9000,
+    "miner": "t01743",
+    "rawBytePower": 11811160064,
+    "qualityAdjPower": 11811160064
+  },
+  {
+    "height": 9000,
+    "miner": "t01753",
+    "rawBytePower": 11957188952064,
+    "qualityAdjPower": 11957188952064
+  },
+  {
+    "height": 9000,
+    "miner": "t01754",
+    "rawBytePower": 1098412116148224,
+    "qualityAdjPower": 1098412116148224
+  },
+  {
+    "height": 9000,
+    "miner": "t01760",
+    "rawBytePower": 6768868458496,
+    "qualityAdjPower": 6768868458496
+  },
+  {
+    "height": 9000,
+    "miner": "t01773",
+    "rawBytePower": 309237645312,
+    "qualityAdjPower": 309237645312
+  },
+  {
+    "height": 9000,
+    "miner": "t01791",
+    "rawBytePower": 171798691840,
+    "qualityAdjPower": 171798691840
+  },
+  {
+    "height": 9000,
+    "miner": "t01796",
+    "rawBytePower": 11269994184704,
+    "qualityAdjPower": 11269994184704
+  },
+  {
+    "height": 9000,
+    "miner": "t01814",
+    "rawBytePower": 4020089389056,
+    "qualityAdjPower": 4020089389056
+  },
+  {
+    "height": 9000,
+    "miner": "t01818",
+    "rawBytePower": 343597383680,
+    "qualityAdjPower": 343597383680
+  },
+  {
+    "height": 9000,
+    "miner": "t01819",
+    "rawBytePower": 134754598912,
+    "qualityAdjPower": 134754598912
+  },
+  {
+    "height": 9000,
+    "miner": "t01820",
+    "rawBytePower": 72980084293632,
+    "qualityAdjPower": 72980084293632
+  },
+  {
+    "height": 9000,
+    "miner": "t01824",
+    "rawBytePower": 70866960384,
+    "qualityAdjPower": 70866960384
+  },
+  {
+    "height": 9000,
+    "miner": "t01825",
+    "rawBytePower": 80882824118272,
+    "qualityAdjPower": 80882824118272
+  },
+  {
+    "height": 9000,
+    "miner": "t01827",
+    "rawBytePower": 2852395155456,
+    "qualityAdjPower": 2852395155456
+  },
+  {
+    "height": 9000,
+    "miner": "t01829",
+    "rawBytePower": 68719476736,
+    "qualityAdjPower": 68719476736
+  },
+  {
+    "height": 9000,
+    "miner": "t01832",
+    "rawBytePower": 893353197568,
+    "qualityAdjPower": 893353197568
+  },
+  {
+    "height": 9000,
+    "miner": "t01846",
+    "rawBytePower": 85830626443264,
+    "qualityAdjPower": 85830626443264
+  },
+  {
+    "height": 9000,
+    "miner": "t01876",
+    "rawBytePower": 755914244096,
+    "qualityAdjPower": 755914244096
+  },
+  {
+    "height": 9000,
+    "miner": "t01877",
+    "rawBytePower": 56762287783936,
+    "qualityAdjPower": 56762287783936
+  },
+  {
+    "height": 9000,
+    "miner": "t01879",
+    "rawBytePower": 114890375168,
+    "qualityAdjPower": 114890375168
+  },
+  {
+    "height": 9000,
+    "miner": "t01881",
+    "rawBytePower": 138469745623040,
+    "qualityAdjPower": 138469745623040
+  },
+  {
+    "height": 9000,
+    "miner": "t01882",
+    "rawBytePower": 72086731096064,
+    "qualityAdjPower": 72086731096064
+  },
+  {
+    "height": 9000,
+    "miner": "t01888",
+    "rawBytePower": 274877906944,
+    "qualityAdjPower": 274877906944
+  },
+  {
+    "height": 9000,
+    "miner": "t01891",
+    "rawBytePower": 2027224563712,
+    "qualityAdjPower": 2027224563712
+  },
+  {
+    "height": 9000,
+    "miner": "t01895",
+    "rawBytePower": 1546188226560,
+    "qualityAdjPower": 1546188226560
+  },
+  {
+    "height": 9000,
+    "miner": "t01902",
+    "rawBytePower": 25769803776,
+    "qualityAdjPower": 25769803776
+  },
+  {
+    "height": 9000,
+    "miner": "t01909",
+    "rawBytePower": 91804925952,
+    "qualityAdjPower": 91804925952
+  },
+  {
+    "height": 9000,
+    "miner": "t01906",
+    "rawBytePower": 65249143160832,
+    "qualityAdjPower": 65249143160832
+  },
+  {
+    "height": 9000,
+    "miner": "t01908",
+    "rawBytePower": 181144540676096,
+    "qualityAdjPower": 181144540676096
+  },
+  {
+    "height": 9000,
+    "miner": "t01919",
+    "rawBytePower": 446676598784,
+    "qualityAdjPower": 446676598784
+  },
+  {
+    "height": 9000,
+    "miner": "t01907",
+    "rawBytePower": 18932215840768,
+    "qualityAdjPower": 18932215840768
+  },
+  {
+    "height": 9000,
+    "miner": "t01920",
+    "rawBytePower": 120259084288,
+    "qualityAdjPower": 120259084288
+  },
+  {
+    "height": 9000,
+    "miner": "t01929",
+    "rawBytePower": 19241453486080,
+    "qualityAdjPower": 19241453486080
+  },
+  {
+    "height": 9000,
+    "miner": "t01932",
+    "rawBytePower": 240518168576,
+    "qualityAdjPower": 240518168576
+  },
+  {
+    "height": 9000,
+    "miner": "t01936",
+    "rawBytePower": 274877906944,
+    "qualityAdjPower": 274877906944
+  },
+  {
+    "height": 9000,
+    "miner": "t01942",
+    "rawBytePower": 2576980377600,
+    "qualityAdjPower": 2576980377600
+  },
+  {
+    "height": 9000,
+    "miner": "t01943",
+    "rawBytePower": 6734508720128,
+    "qualityAdjPower": 6734508720128
+  },
+  {
+    "height": 9000,
+    "miner": "t01945",
+    "rawBytePower": 51539607552,
+    "qualityAdjPower": 51539607552
+  },
+  {
+    "height": 9000,
+    "miner": "t01946",
+    "rawBytePower": 5905580032,
+    "qualityAdjPower": 5905580032
+  },
+  {
+    "height": 9000,
+    "miner": "t01952",
+    "rawBytePower": 309237645312,
+    "qualityAdjPower": 309237645312
+  },
+  {
+    "height": 9000,
+    "miner": "t01959",
+    "rawBytePower": 268418276130816,
+    "qualityAdjPower": 268418276130816
+  },
+  {
+    "height": 9000,
+    "miner": "t01961",
+    "rawBytePower": 584115552256,
+    "qualityAdjPower": 584115552256
+  },
+  {
+    "height": 9000,
+    "miner": "t01967",
+    "rawBytePower": 24635932409856,
+    "qualityAdjPower": 24635932409856
+  },
+  {
+    "height": 9000,
+    "miner": "t01974",
+    "rawBytePower": 1786706395136,
+    "qualityAdjPower": 1786706395136
+  },
+  {
+    "height": 9000,
+    "miner": "t01970",
+    "rawBytePower": 181591217274880,
+    "qualityAdjPower": 181591217274880
+  },
+  {
+    "height": 9000,
+    "miner": "t01973",
+    "rawBytePower": 1211936691716096,
+    "qualityAdjPower": 1211936691716096
+  },
+  {
+    "height": 9000,
+    "miner": "t01986",
+    "rawBytePower": 153588030504960,
+    "qualityAdjPower": 153588030504960
+  },
+  {
+    "height": 9000,
+    "miner": "t02000",
+    "rawBytePower": 8246337208320,
+    "qualityAdjPower": 8246337208320
+  },
+  {
+    "height": 9000,
+    "miner": "t02002",
+    "rawBytePower": 446676598784,
+    "qualityAdjPower": 446676598784
+  },
+  {
+    "height": 9000,
+    "miner": "t01988",
+    "rawBytePower": 8589934592,
+    "qualityAdjPower": 8589934592
+  },
+  {
+    "height": 9000,
+    "miner": "t02004",
+    "rawBytePower": 119185342464,
+    "qualityAdjPower": 119185342464
+  },
+  {
+    "height": 9000,
+    "miner": "t02011",
+    "rawBytePower": 2920577761280,
+    "qualityAdjPower": 2920577761280
+  },
+  {
+    "height": 9000,
+    "miner": "t02016",
+    "rawBytePower": 9277129359360,
+    "qualityAdjPower": 9277129359360
+  },
+  {
+    "height": 9000,
+    "miner": "t02014",
+    "rawBytePower": 33285996544,
+    "qualityAdjPower": 33285996544
+  },
+  {
+    "height": 9000,
+    "miner": "t02017",
+    "rawBytePower": 103079215104,
+    "qualityAdjPower": 103079215104
+  },
+  {
+    "height": 9000,
+    "miner": "t02021",
+    "rawBytePower": 927712935936,
+    "qualityAdjPower": 927712935936
+  },
+  {
+    "height": 9000,
+    "miner": "t02018",
+    "rawBytePower": 377957122048,
+    "qualityAdjPower": 377957122048
+  },
+  {
+    "height": 9000,
+    "miner": "t02025",
+    "rawBytePower": 435939180544,
+    "qualityAdjPower": 435939180544
+  },
+  {
+    "height": 9000,
+    "miner": "t02036",
+    "rawBytePower": 927712935936,
+    "qualityAdjPower": 927712935936
+  },
+  {
+    "height": 9000,
+    "miner": "t02056",
+    "rawBytePower": 10376640987136,
+    "qualityAdjPower": 10376640987136
+  },
+  {
+    "height": 9000,
+    "miner": "t02046",
+    "rawBytePower": 156229435392,
+    "qualityAdjPower": 156229435392
+  },
+  {
+    "height": 9000,
+    "miner": "t02054",
+    "rawBytePower": 2095944040448,
+    "qualityAdjPower": 2095944040448
+  },
+  {
+    "height": 9000,
+    "miner": "t02051",
+    "rawBytePower": 19327352832,
+    "qualityAdjPower": 19327352832
+  },
+  {
+    "height": 9000,
+    "miner": "t02060",
+    "rawBytePower": 309237645312,
+    "qualityAdjPower": 309237645312
+  },
+  {
+    "height": 9000,
+    "miner": "t02061",
+    "rawBytePower": 119056493445120,
+    "qualityAdjPower": 119056493445120
+  },
+  {
+    "height": 9000,
+    "miner": "t02062",
+    "rawBytePower": 6597069766656,
+    "qualityAdjPower": 6597069766656
+  },
+  {
+    "height": 9000,
+    "miner": "t02063",
+    "rawBytePower": 2405181685760,
+    "qualityAdjPower": 2405181685760
+  },
+  {
+    "height": 9000,
+    "miner": "t02064",
+    "rawBytePower": 52948356825088,
+    "qualityAdjPower": 52948356825088
+  },
+  {
+    "height": 9000,
+    "miner": "t02065",
+    "rawBytePower": 7971459301376,
+    "qualityAdjPower": 7971459301376
+  },
+  {
+    "height": 9000,
+    "miner": "t02098",
+    "rawBytePower": 141733920768,
+    "qualityAdjPower": 141733920768
+  },
+  {
+    "height": 9000,
+    "miner": "t02099",
+    "rawBytePower": 536870912,
+    "qualityAdjPower": 536870912
+  },
+  {
+    "height": 9000,
+    "miner": "t02102",
+    "rawBytePower": 16527034155008,
+    "qualityAdjPower": 16527034155008
+  },
+  {
+    "height": 9000,
+    "miner": "t02111",
+    "rawBytePower": 377957122048,
+    "qualityAdjPower": 377957122048
+  },
+  {
+    "height": 9000,
+    "miner": "t02126",
+    "rawBytePower": 309237645312,
+    "qualityAdjPower": 309237645312
+  },
+  {
+    "height": 9000,
+    "miner": "t02131",
+    "rawBytePower": 17248588660736,
+    "qualityAdjPower": 17248588660736
+  },
+  {
+    "height": 9000,
+    "miner": "t02179",
+    "rawBytePower": 203169132969984,
+    "qualityAdjPower": 203169132969984
+  },
+  {
+    "height": 9000,
+    "miner": "t02182",
+    "rawBytePower": 273267294208,
+    "qualityAdjPower": 273267294208
+  },
+  {
+    "height": 9000,
+    "miner": "t02178",
+    "rawBytePower": 309237645312,
+    "qualityAdjPower": 309237645312
+  },
+  {
+    "height": 9000,
+    "miner": "t02143",
+    "rawBytePower": 34359738368000,
+    "qualityAdjPower": 34359738368000
+  },
+  {
+    "height": 9000,
+    "miner": "t02141",
+    "rawBytePower": 171798691840,
+    "qualityAdjPower": 171798691840
+  },
+  {
+    "height": 9000,
+    "miner": "t02144",
+    "rawBytePower": 36507222016,
+    "qualityAdjPower": 36507222016
+  },
+  {
+    "height": 9000,
+    "miner": "t02196",
+    "rawBytePower": 26843545600,
+    "qualityAdjPower": 26843545600
+  },
+  {
+    "height": 9000,
+    "miner": "t02156",
+    "rawBytePower": 15032385536,
+    "qualityAdjPower": 15032385536
+  },
+  {
+    "height": 9000,
+    "miner": "t02189",
+    "rawBytePower": 4879082848256,
+    "qualityAdjPower": 4879082848256
+  },
+  {
+    "height": 9000,
+    "miner": "t02197",
+    "rawBytePower": 49928994816,
+    "qualityAdjPower": 49928994816
+  },
+  {
+    "height": 9000,
+    "miner": "t02235",
+    "rawBytePower": 274877906944,
+    "qualityAdjPower": 274877906944
+  },
+  {
+    "height": 9000,
+    "miner": "t02234",
+    "rawBytePower": 2645699854336,
+    "qualityAdjPower": 2645699854336
+  },
+  {
+    "height": 9000,
+    "miner": "t02230",
+    "rawBytePower": 602085695422464,
+    "qualityAdjPower": 602085695422464
+  },
+  {
+    "height": 9000,
+    "miner": "t02242",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t02216",
+    "rawBytePower": 7937099563008,
+    "qualityAdjPower": 7937099563008
+  },
+  {
+    "height": 9000,
+    "miner": "t02287",
+    "rawBytePower": 1168231104512,
+    "qualityAdjPower": 1168231104512
+  },
+  {
+    "height": 9000,
+    "miner": "t02292",
+    "rawBytePower": 10857677324288,
+    "qualityAdjPower": 10857677324288
+  },
+  {
+    "height": 9000,
+    "miner": "t02293",
+    "rawBytePower": 377957122048,
+    "qualityAdjPower": 377957122048
+  },
+  {
+    "height": 9000,
+    "miner": "t02239",
+    "rawBytePower": 1271310319616,
+    "qualityAdjPower": 1271310319616
+  },
+  {
+    "height": 9000,
+    "miner": "t02211",
+    "rawBytePower": 8658654068736,
+    "qualityAdjPower": 8658654068736
+  },
+  {
+    "height": 9000,
+    "miner": "t02302",
+    "rawBytePower": 86973087744,
+    "qualityAdjPower": 86973087744
+  },
+  {
+    "height": 9000,
+    "miner": "t02249",
+    "rawBytePower": 57982058496,
+    "qualityAdjPower": 57982058496
+  },
+  {
+    "height": 9000,
+    "miner": "t02252",
+    "rawBytePower": 755914244096,
+    "qualityAdjPower": 755914244096
+  },
+  {
+    "height": 9000,
+    "miner": "t02315",
+    "rawBytePower": 51539607552,
+    "qualityAdjPower": 51539607552
+  },
+  {
+    "height": 9000,
+    "miner": "t02328",
+    "rawBytePower": 14774687498240,
+    "qualityAdjPower": 14774687498240
+  },
+  {
+    "height": 9000,
+    "miner": "t02329",
+    "rawBytePower": 1546188226560,
+    "qualityAdjPower": 1546188226560
+  },
+  {
+    "height": 9000,
+    "miner": "t02320",
+    "rawBytePower": 687194767360,
+    "qualityAdjPower": 687194767360
+  },
+  {
+    "height": 9000,
+    "miner": "t02335",
+    "rawBytePower": 377957122048,
+    "qualityAdjPower": 377957122048
+  },
+  {
+    "height": 9000,
+    "miner": "t02259",
+    "rawBytePower": 206158430208,
+    "qualityAdjPower": 206158430208
+  },
+  {
+    "height": 9000,
+    "miner": "t02348",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t02294",
+    "rawBytePower": 156439888789504,
+    "qualityAdjPower": 156439888789504
+  },
+  {
+    "height": 9000,
+    "miner": "t02306",
+    "rawBytePower": 19327352832,
+    "qualityAdjPower": 19327352832
+  },
+  {
+    "height": 9000,
+    "miner": "t02308",
+    "rawBytePower": 755914244096,
+    "qualityAdjPower": 755914244096
+  },
+  {
+    "height": 9000,
+    "miner": "t02359",
+    "rawBytePower": 25769803776,
+    "qualityAdjPower": 25769803776
+  },
+  {
+    "height": 9000,
+    "miner": "t02360",
+    "rawBytePower": 377957122048,
+    "qualityAdjPower": 377957122048
+  },
+  {
+    "height": 9000,
+    "miner": "t02303",
+    "rawBytePower": 412316860416,
+    "qualityAdjPower": 412316860416
+  },
+  {
+    "height": 9000,
+    "miner": "t02377",
+    "rawBytePower": 108748571934720,
+    "qualityAdjPower": 108748571934720
+  },
+  {
+    "height": 9000,
+    "miner": "t02415",
+    "rawBytePower": 206695301120,
+    "qualityAdjPower": 206695301120
+  },
+  {
+    "height": 9000,
+    "miner": "t02416",
+    "rawBytePower": 481036337152,
+    "qualityAdjPower": 481036337152
+  },
+  {
+    "height": 9000,
+    "miner": "t02425",
+    "rawBytePower": 1065151889408,
+    "qualityAdjPower": 1065151889408
+  },
+  {
+    "height": 9000,
+    "miner": "t02401",
+    "rawBytePower": 171214576287744,
+    "qualityAdjPower": 171214576287744
+  },
+  {
+    "height": 9000,
+    "miner": "t02446",
+    "rawBytePower": 652835028992,
+    "qualityAdjPower": 652835028992
+  },
+  {
+    "height": 9000,
+    "miner": "t02493",
+    "rawBytePower": 20787641712640,
+    "qualityAdjPower": 20787641712640
+  },
+  {
+    "height": 9000,
+    "miner": "t02417",
+    "rawBytePower": 20375324852224,
+    "qualityAdjPower": 20375324852224
+  },
+  {
+    "height": 9000,
+    "miner": "t02419",
+    "rawBytePower": 1614907703296,
+    "qualityAdjPower": 1614907703296
+  },
+  {
+    "height": 9000,
+    "miner": "t02526",
+    "rawBytePower": 824633720832,
+    "qualityAdjPower": 824633720832
+  },
+  {
+    "height": 9000,
+    "miner": "t02533",
+    "rawBytePower": 128849018880,
+    "qualityAdjPower": 128849018880
+  },
+  {
+    "height": 9000,
+    "miner": "t02549",
+    "rawBytePower": 549755813888,
+    "qualityAdjPower": 549755813888
+  },
+  {
+    "height": 9000,
+    "miner": "t02541",
+    "rawBytePower": 118197499985920,
+    "qualityAdjPower": 118197499985920
+  },
+  {
+    "height": 9000,
+    "miner": "t02558",
+    "rawBytePower": 20650202759168,
+    "qualityAdjPower": 20650202759168
+  },
+  {
+    "height": 9000,
+    "miner": "t02556",
+    "rawBytePower": 5368709120,
+    "qualityAdjPower": 5368709120
+  },
+  {
+    "height": 9000,
+    "miner": "t02561",
+    "rawBytePower": 1443109011456,
+    "qualityAdjPower": 1443109011456
+  },
+  {
+    "height": 9000,
+    "miner": "t02581",
+    "rawBytePower": 3534758084608,
+    "qualityAdjPower": 3534758084608
+  },
+  {
+    "height": 9000,
+    "miner": "t02554",
+    "rawBytePower": 36507222016,
+    "qualityAdjPower": 36507222016
+  },
+  {
+    "height": 9000,
+    "miner": "t02595",
+    "rawBytePower": 206158430208,
+    "qualityAdjPower": 206158430208
+  },
+  {
+    "height": 9000,
+    "miner": "t02562",
+    "rawBytePower": 2886218022912,
+    "qualityAdjPower": 2886218022912
+  },
+  {
+    "height": 9000,
+    "miner": "t02555",
+    "rawBytePower": 8291434364928,
+    "qualityAdjPower": 8291434364928
+  },
+  {
+    "height": 9000,
+    "miner": "t02600",
+    "rawBytePower": 343597383680,
+    "qualityAdjPower": 343597383680
+  },
+  {
+    "height": 9000,
+    "miner": "t02627",
+    "rawBytePower": 343597383680,
+    "qualityAdjPower": 343597383680
+  },
+  {
+    "height": 9000,
+    "miner": "t02624",
+    "rawBytePower": 103079215104,
+    "qualityAdjPower": 103079215104
+  },
+  {
+    "height": 9000,
+    "miner": "t02628",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t02637",
+    "rawBytePower": 240518168576,
+    "qualityAdjPower": 240518168576
+  },
+  {
+    "height": 9000,
+    "miner": "t02646",
+    "rawBytePower": 103079215104,
+    "qualityAdjPower": 103079215104
+  },
+  {
+    "height": 9000,
+    "miner": "t02660",
+    "rawBytePower": 503610685259776,
+    "qualityAdjPower": 503610685259776
+  },
+  {
+    "height": 9000,
+    "miner": "t02644",
+    "rawBytePower": 206158430208,
+    "qualityAdjPower": 206158430208
+  },
+  {
+    "height": 9000,
+    "miner": "t02674",
+    "rawBytePower": 52613349376,
+    "qualityAdjPower": 52613349376
+  },
+  {
+    "height": 9000,
+    "miner": "t02675",
+    "rawBytePower": 32212254720,
+    "qualityAdjPower": 32212254720
+  },
+  {
+    "height": 9000,
+    "miner": "t02686",
+    "rawBytePower": 137438953472,
+    "qualityAdjPower": 137438953472
+  },
+  {
+    "height": 9000,
+    "miner": "t02702",
+    "rawBytePower": 11166914969600,
+    "qualityAdjPower": 11166914969600
+  },
+  {
+    "height": 9000,
+    "miner": "t02703",
+    "rawBytePower": 68719476736,
+    "qualityAdjPower": 68719476736
+  },
+  {
+    "height": 9000,
+    "miner": "t02720",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t02722",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t02750",
+    "rawBytePower": 137438953472,
+    "qualityAdjPower": 137438953472
+  },
+  {
+    "height": 9000,
+    "miner": "t02757",
+    "rawBytePower": 446676598784,
+    "qualityAdjPower": 446676598784
+  },
+  {
+    "height": 9000,
+    "miner": "t02759",
+    "rawBytePower": 11201274707968,
+    "qualityAdjPower": 11201274707968
+  },
+  {
+    "height": 9000,
+    "miner": "t02753",
+    "rawBytePower": 652835028992,
+    "qualityAdjPower": 652835028992
+  },
+  {
+    "height": 9000,
+    "miner": "t02773",
+    "rawBytePower": 274877906944,
+    "qualityAdjPower": 274877906944
+  },
+  {
+    "height": 9000,
+    "miner": "t02779",
+    "rawBytePower": 68719476736,
+    "qualityAdjPower": 68719476736
+  },
+  {
+    "height": 9000,
+    "miner": "t02809",
+    "rawBytePower": 1614907703296,
+    "qualityAdjPower": 1614907703296
+  },
+  {
+    "height": 9000,
+    "miner": "t02810",
+    "rawBytePower": 9126805504,
+    "qualityAdjPower": 9126805504
+  },
+  {
+    "height": 9000,
+    "miner": "t02818",
+    "rawBytePower": 68719476736,
+    "qualityAdjPower": 68719476736
+  },
+  {
+    "height": 9000,
+    "miner": "t02845",
+    "rawBytePower": 5368709120,
+    "qualityAdjPower": 5368709120
+  },
+  {
+    "height": 9000,
+    "miner": "t02871",
+    "rawBytePower": 38001870635008,
+    "qualityAdjPower": 38001870635008
+  },
+  {
+    "height": 9000,
+    "miner": "t02882",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t02896",
+    "rawBytePower": 16642998272,
+    "qualityAdjPower": 16642998272
+  },
+  {
+    "height": 9000,
+    "miner": "t02898",
+    "rawBytePower": 515396075520,
+    "qualityAdjPower": 515396075520
+  },
+  {
+    "height": 9000,
+    "miner": "t02937",
+    "rawBytePower": 37623913512960,
+    "qualityAdjPower": 37623913512960
+  },
+  {
+    "height": 9000,
+    "miner": "t02936",
+    "rawBytePower": 85796266704896,
+    "qualityAdjPower": 85796266704896
+  },
+  {
+    "height": 9000,
+    "miner": "t02953",
+    "rawBytePower": 47781511168,
+    "qualityAdjPower": 47781511168
+  },
+  {
+    "height": 9000,
+    "miner": "t02958",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t02959",
+    "rawBytePower": 206158430208,
+    "qualityAdjPower": 206158430208
+  },
+  {
+    "height": 9000,
+    "miner": "t02962",
+    "rawBytePower": 274877906944,
+    "qualityAdjPower": 274877906944
+  },
+  {
+    "height": 9000,
+    "miner": "t02965",
+    "rawBytePower": 10737418240,
+    "qualityAdjPower": 10737418240
+  },
+  {
+    "height": 9000,
+    "miner": "t02972",
+    "rawBytePower": 343597383680,
+    "qualityAdjPower": 343597383680
+  },
+  {
+    "height": 9000,
+    "miner": "t02975",
+    "rawBytePower": 10720238370816,
+    "qualityAdjPower": 10720238370816
+  },
+  {
+    "height": 9000,
+    "miner": "t02981",
+    "rawBytePower": 1969779376128,
+    "qualityAdjPower": 1969779376128
+  },
+  {
+    "height": 9000,
+    "miner": "t02989",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t02988",
+    "rawBytePower": 68719476736,
+    "qualityAdjPower": 68719476736
+  },
+  {
+    "height": 9000,
+    "miner": "t03014",
+    "rawBytePower": 26306674688,
+    "qualityAdjPower": 26306674688
+  },
+  {
+    "height": 9000,
+    "miner": "t03012",
+    "rawBytePower": 274877906944,
+    "qualityAdjPower": 274877906944
+  },
+  {
+    "height": 9000,
+    "miner": "t03043",
+    "rawBytePower": 1180042264576,
+    "qualityAdjPower": 1180042264576
+  },
+  {
+    "height": 9000,
+    "miner": "t03052",
+    "rawBytePower": 40802189312,
+    "qualityAdjPower": 40802189312
+  },
+  {
+    "height": 9000,
+    "miner": "t03018",
+    "rawBytePower": 1477468749824,
+    "qualityAdjPower": 1477468749824
+  },
+  {
+    "height": 9000,
+    "miner": "t03016",
+    "rawBytePower": 68719476736,
+    "qualityAdjPower": 68719476736
+  },
+  {
+    "height": 9000,
+    "miner": "t03029",
+    "rawBytePower": 755914244096,
+    "qualityAdjPower": 755914244096
+  },
+  {
+    "height": 9000,
+    "miner": "t03045",
+    "rawBytePower": 2965138046976,
+    "qualityAdjPower": 2965138046976
+  },
+  {
+    "height": 9000,
+    "miner": "t04985",
+    "rawBytePower": 5905580032,
+    "qualityAdjPower": 5905580032
+  },
+  {
+    "height": 9000,
+    "miner": "t04989",
+    "rawBytePower": 412316860416,
+    "qualityAdjPower": 412316860416
+  },
+  {
+    "height": 9000,
+    "miner": "t05021",
+    "rawBytePower": 549755813888,
+    "qualityAdjPower": 549755813888
+  },
+  {
+    "height": 9000,
+    "miner": "t04967",
+    "rawBytePower": 3824131506176,
+    "qualityAdjPower": 3824131506176
+  },
+  {
+    "height": 9000,
+    "miner": "t04978",
+    "rawBytePower": 17695265259520,
+    "qualityAdjPower": 17695265259520
+  },
+  {
+    "height": 9000,
+    "miner": "t05006",
+    "rawBytePower": 180925497344,
+    "qualityAdjPower": 180925497344
+  },
+  {
+    "height": 9000,
+    "miner": "t05036",
+    "rawBytePower": 6979321856,
+    "qualityAdjPower": 6979321856
+  },
+  {
+    "height": 9000,
+    "miner": "t05042",
+    "rawBytePower": 446676598784,
+    "qualityAdjPower": 446676598784
+  },
+  {
+    "height": 9000,
+    "miner": "t05002",
+    "rawBytePower": 2783138807808,
+    "qualityAdjPower": 2783138807808
+  },
+  {
+    "height": 9000,
+    "miner": "t05025",
+    "rawBytePower": 164819369984,
+    "qualityAdjPower": 164819369984
+  },
+  {
+    "height": 9000,
+    "miner": "t04984",
+    "rawBytePower": 4741643894784,
+    "qualityAdjPower": 4741643894784
+  },
+  {
+    "height": 9000,
+    "miner": "t010460",
+    "rawBytePower": 98406290685952,
+    "qualityAdjPower": 98406290685952
+  },
+  {
+    "height": 9000,
+    "miner": "t019134",
+    "rawBytePower": 240518168576,
+    "qualityAdjPower": 240518168576
+  },
+  {
+    "height": 9000,
+    "miner": "t05027",
+    "rawBytePower": 1610612736,
+    "qualityAdjPower": 1610612736
+  },
+  {
+    "height": 9000,
+    "miner": "t053877",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t066825",
+    "rawBytePower": 2954937499648,
+    "qualityAdjPower": 2954937499648
+  },
+  {
+    "height": 9000,
+    "miner": "t069967",
+    "rawBytePower": 8053063680,
+    "qualityAdjPower": 8053063680
+  },
+  {
+    "height": 9000,
+    "miner": "t096376",
+    "rawBytePower": 309237645312,
+    "qualityAdjPower": 309237645312
+  },
+  {
+    "height": 9000,
+    "miner": "t096379",
+    "rawBytePower": 2670395916288,
+    "qualityAdjPower": 2670395916288
+  },
+  {
+    "height": 9000,
+    "miner": "t096382",
+    "rawBytePower": 137438953472,
+    "qualityAdjPower": 137438953472
+  },
+  {
+    "height": 9000,
+    "miner": "t096446",
+    "rawBytePower": 755914244096,
+    "qualityAdjPower": 755914244096
+  },
+  {
+    "height": 9000,
+    "miner": "t096484",
+    "rawBytePower": 92341796864,
+    "qualityAdjPower": 92341796864
+  },
+  {
+    "height": 9000,
+    "miner": "t096456",
+    "rawBytePower": 2542620639232,
+    "qualityAdjPower": 2542620639232
+  },
+  {
+    "height": 9000,
+    "miner": "t096471",
+    "rawBytePower": 858993459200,
+    "qualityAdjPower": 858993459200
+  },
+  {
+    "height": 9000,
+    "miner": "t096461",
+    "rawBytePower": 1614907703296,
+    "qualityAdjPower": 1614907703296
+  },
+  {
+    "height": 9000,
+    "miner": "t096483",
+    "rawBytePower": 4294967296000,
+    "qualityAdjPower": 4294967296000
+  },
+  {
+    "height": 9000,
+    "miner": "t096519",
+    "rawBytePower": 7902739824640,
+    "qualityAdjPower": 7902739824640
+  },
+  {
+    "height": 9000,
+    "miner": "t096551",
+    "rawBytePower": 171798691840,
+    "qualityAdjPower": 171798691840
+  },
+  {
+    "height": 9000,
+    "miner": "t096523",
+    "rawBytePower": 103079215104,
+    "qualityAdjPower": 103079215104
+  },
+  {
+    "height": 9000,
+    "miner": "t096492",
+    "rawBytePower": 5905580032,
+    "qualityAdjPower": 5905580032
+  },
+  {
+    "height": 9000,
+    "miner": "t096498",
+    "rawBytePower": 171798691840,
+    "qualityAdjPower": 171798691840
+  },
+  {
+    "height": 9000,
+    "miner": "t096528",
+    "rawBytePower": 335007449088,
+    "qualityAdjPower": 335007449088
+  },
+  {
+    "height": 9000,
+    "miner": "t096529",
+    "rawBytePower": 4260607557632,
+    "qualityAdjPower": 4260607557632
+  },
+  {
+    "height": 9000,
+    "miner": "t096562",
+    "rawBytePower": 240518168576,
+    "qualityAdjPower": 240518168576
+  },
+  {
+    "height": 9000,
+    "miner": "t096578",
+    "rawBytePower": 68719476736,
+    "qualityAdjPower": 68719476736
+  },
+  {
+    "height": 9000,
+    "miner": "t096589",
+    "rawBytePower": 10941429186560,
+    "qualityAdjPower": 10941429186560
+  },
+  {
+    "height": 9000,
+    "miner": "t096605",
+    "rawBytePower": 452045307904,
+    "qualityAdjPower": 452045307904
+  },
+  {
+    "height": 9000,
+    "miner": "t096864",
+    "rawBytePower": 68719476736,
+    "qualityAdjPower": 68719476736
+  },
+  {
+    "height": 9000,
+    "miner": "t0123645",
+    "rawBytePower": 36507222016,
+    "qualityAdjPower": 36507222016
+  },
+  {
+    "height": 9000,
+    "miner": "t0123650",
+    "rawBytePower": 1610612736,
+    "qualityAdjPower": 1610612736
+  },
+  {
+    "height": 9000,
+    "miner": "t0109611",
+    "rawBytePower": 114521007980544,
+    "qualityAdjPower": 114521007980544
+  },
+  {
+    "height": 9000,
+    "miner": "t0123648",
+    "rawBytePower": 137438953472,
+    "qualityAdjPower": 137438953472
+  },
+  {
+    "height": 9000,
+    "miner": "t0123649",
+    "rawBytePower": 1147830009856,
+    "qualityAdjPower": 1147830009856
+  },
+  {
+    "height": 9000,
+    "miner": "t0123652",
+    "rawBytePower": 10200547328,
+    "qualityAdjPower": 10200547328
+  },
+  {
+    "height": 9000,
+    "miner": "t0123653",
+    "rawBytePower": 34359738368,
+    "qualityAdjPower": 34359738368
+  },
+  {
+    "height": 9000,
+    "miner": "t0123634",
+    "rawBytePower": 2164663517184,
+    "qualityAdjPower": 2164663517184
+  },
+  {
+    "height": 9000,
+    "miner": "t0123640",
+    "rawBytePower": 1340029796352,
+    "qualityAdjPower": 1340029796352
+  },
+  {
+    "height": 9000,
+    "miner": "t096609",
+    "rawBytePower": 377957122048,
+    "qualityAdjPower": 377957122048
+  },
+  {
+    "height": 9000,
+    "miner": "t0167784",
+    "rawBytePower": 5368709120,
+    "qualityAdjPower": 5368709120
+  },
+  {
+    "height": 9000,
+    "miner": "t0151229",
+    "rawBytePower": 536870912,
+    "qualityAdjPower": 536870912
   }
 ]
